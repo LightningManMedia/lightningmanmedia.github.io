@@ -1,0 +1,96 @@
+:root { 
+  --black: #000000;
+  --main800: #2e2930;
+  --main900: #1a171c;
+  --white: #ffffff;
+ 
+  --font-size-l: 13px;
+  --font-size-m: 12px;
+  --font-size-xl: 14px;
+  --font-size-xxl: 16px;
+  --font-size-xxxl: 17px;
+  --font-size-xxxxl: 22px;
+  --font-size-xxxxxl: 32px;
+ 
+  --font-family-urbanist: "Urbanist", Helvetica;
+  --font-family-work_sans: "Work Sans", Helvetica;
+}
+.worksans-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.urbanist-extra-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-urbanist);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.urbanist-extra-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-urbanist);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.worksans-semi-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.worksans-semi-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.worksans-normal-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-semi-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.worksans-medium-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.worksans-semi-bold-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
